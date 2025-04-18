@@ -20,11 +20,14 @@ Node Admin template has two separate project i.e. ReactClient and NodeApi.
 Open NodeApi project on Visual studio code. Then open .env file and replace environment variables by your one.
 Now restore the database script file to your Mysql server and write below commands on terminal
 
-    - npm install
-    - npm start
+- npm install
+- npm start
 
 You should see your API listening at localhost:3001.
 
-Now open ReactClient on VS Code. Open terminal and write - npm install - npm run dev
+Now open ReactClient on VS Code. Open terminal and write
+
+- npm install
+- npm run dev
 
 Your project will be running at localhost:3000.
